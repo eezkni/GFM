@@ -23,6 +23,13 @@ git clone https://github.com/eezkni/GEM --recursive
 cd GFM
 ```
 
+### Gabor feature-based model for SCI Quality Assessment
+<img src="./figures/flowchart.png" width = "100%" height = "100%" div align=center>
+
+
+### Experimental Results
+<img src="./figures/performance2.png" width = "100%" height = "100%" div align=center>
+
 ## Citation
 
 If this code/GFM is useful for your research, please cite our paper:
