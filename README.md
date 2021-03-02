@@ -24,11 +24,11 @@ cd GFM
 ```
 
 ### Gabor feature-based model for SCI Quality Assessment
-<img src="./figures/flowchart.png" width = "100%" height = "100%" div align=center>
+<img src="./figures/flowchart.png" width = "80%" height = "100%" div align="center">
 
 
 ### Experimental Results
-<img src="./figures/performance2.png" width = "100%" height = "100%" div align=center>
+<img src="./figures/performance2.png" width = "100%" height = "100%" div align="center">
 
 ## Citation
 
