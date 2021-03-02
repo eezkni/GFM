@@ -9,7 +9,7 @@
 
 This website shares the codes of the "A Gabor Feature-Based Quality Assessment Model for the Screen Content Images", IEEE Transactions on Image Processing (T-IP), vol. 27, pp. 4516-4528, September 2018. 
 
-<img src="./figures/complexity.jpg" width = "80%" height = "100%" align="center">
+<img src="./figures/complexity.jpg" width = "80%" height = "100%" align="center" />
 
 
 
@@ -24,7 +24,7 @@ cd GFM
 ```
 
 ### Gabor feature-based model for SCI Quality Assessment
-<img src="./figures/flowchart.png" width = "100%" height = "100%" div align="center">
+<img src="./figures/flowchart.png" width = "100%" height = "100%" div align="center" >
 
 
 ### Experimental Results
