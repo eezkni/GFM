@@ -1,4 +1,4 @@
-## ESIM: Edge Similarity for Screen Content Image Quality Assessment
+## A Gabor Feature-Based Quality Assessment Model for the Screen Content Images
 
 #### IEEE Transactions on Image Processing (T-IP) 
 [Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
