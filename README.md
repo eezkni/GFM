@@ -1,7 +1,7 @@
 ## A Gabor Feature-Based Quality Assessment Model for the Screen Content Images
 
 #### IEEE Transactions on Image Processing (T-IP) 
-[Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
+[Zhangkai Ni](https://eezkni.github.io/), Huanqiang Zeng, [Lin Ma](http://forestlinma.com/), Junhui Hou, Jing Chen, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
 
 ##### [Project](https://eezkni.github.io/publications/GFM.html) | [Paper](https://eezkni.github.io/publications/journal/GFM/GFM_ZKNI_TIP18.pdf) 
 
